@@ -20,13 +20,22 @@ function Hero() {
           record in Full-Stack Web Development.
         </p>
         <div className="link-wrapper">
-          <a href="https://twitter.com/" target="_blank" className="iconBrand">
+          <a
+            href="https://www.instagram.com/marvintan__/"
+            target="_blank"
+            className="iconBrand">
             <FontAwesomeIcon icon={faInstagram} className="iconBrand" />
           </a>
-          <a href="https://github.com/" target="_blank" className="iconBrand">
+          <a
+            href="https://github.com/WizzProject/"
+            target="_blank"
+            className="iconBrand">
             <FontAwesomeIcon icon={faGithub} className="iconBrand" />
           </a>
-          <a href="https://linkedin.com/" target="_blank" className="iconBrand">
+          <a
+            href="https://www.linkedin.com/in/marvin-joseph-manuel-setyawan/"
+            target="_blank"
+            className="iconBrand">
             <FontAwesomeIcon icon={faLinkedin} className="iconBrand" />
           </a>
         </div>

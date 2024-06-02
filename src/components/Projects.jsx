@@ -6,18 +6,18 @@ function Projects() {
       <h1 className="section-title">Individual Projects</h1>
       <div className="project-wrapper">
         <ProjectCard
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="#"
+          name="Math Calculator"
+          description="Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+        />
+        <ProjectCard
+          link="#"
           name="Keeper App"
           description="Lorem, ipsum dolor sit amet consectetur adipisicing elit."
         />
         <ProjectCard
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          name="ToDo List v1"
-          description="Lorem, ipsum dolor sit amet consectetur adipisicing elit."
-        />
-        <ProjectCard
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          name="ToDo List v2"
+          link="https://marvin-todo-list-app.vercel.app/"
+          name="ToDo List"
           description="Lorem, ipsum dolor sit amet consectetur adipisicing elit."
         />
       </div>
